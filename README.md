@@ -5,12 +5,12 @@ The scripts use the Workspace ONE REST API to simplify bulk operations, Smart Gr
 
 ---
 
-## 📌 Current Scripts
+## Current Scripts
 - [Add-DevicesToSmartGroup.ps1](Add-DevicesToSmartGroup.ps1) → Bulk-add devices (by UUID) into a specified Smart Group.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 - **PowerShell 5.1+** (Windows PowerShell or PowerShell Core).
 - Workspace ONE UEM API credentials with sufficient permissions.
 - API Tenant Code (`aw-tenant-code`).
@@ -18,7 +18,7 @@ The scripts use the Workspace ONE REST API to simplify bulk operations, Smart Gr
 
 ---
 
-## 📑 Usage Example (Add Devices to Smart Group)
+## Usage Example (Add Devices to Smart Group)
 
 1. Prepare a CSV with a `GUID` column (device UUIDs).
 2. Run the script:
