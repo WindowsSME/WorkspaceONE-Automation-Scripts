@@ -1,7 +1,7 @@
 # WorkspaceONE Automation Scripts
 
 This repository contains **PowerShell scripts for automating Workspace ONE UEM administration**.  
-The scripts use the Workspace ONE REST API to simplify bulk operations, Smart Group management, and other administrative tasks.
+The scripts are to simplify bulk operations, Smart Group management, and other administrative tasks.
 
 ---
 
