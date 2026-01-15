@@ -7,6 +7,7 @@ The scripts are to simplify bulk operations, Smart Group management, and other a
 
 ## Current Scripts
 - [Add-DevicesToSmartGroup.ps1](Add-DevicesToSmartGroup.ps1) → Bulk-add devices (by UUID) into a specified Smart Group.
+- [Manage-WS1SmartGroupByUser.ps1](Manage-WS1SmartGroupByUser.ps1) → Bulk update Workspace ONE Smart Group membership using User NTIDs instead of Device UUIDs.
 
 ---
 
